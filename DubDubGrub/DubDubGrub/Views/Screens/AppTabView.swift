@@ -18,7 +18,9 @@ struct AppTabView: View {
                 LocationListView()
             }
             Tab("Profile", systemImage: "person") {
-                ProfileView()
+                NavigationView {
+                    ProfileView()                    
+                }
             }
         }
         .tint(.brandPrimary)
