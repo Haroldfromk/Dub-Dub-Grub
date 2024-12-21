@@ -32,8 +32,8 @@
 		613D45D82D14F7BC008941FC = {
 			isa = PBXGroup;
 			children = (
-				613D45E22D14F7BC008941FC /* Products */,
 				613D45E32D14F7BC008941FC /* DubDubGrub */,
+				613D45E22D14F7BC008941FC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -256,6 +256,7 @@
 				DEVELOPMENT_TEAM = LA95MXQ3R5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Dub Dub Grub uses your location to show you where you are in relation to your friends and food.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -286,6 +287,7 @@
 				DEVELOPMENT_TEAM = LA95MXQ3R5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Dub Dub Grub uses your location to show you where you are in relation to your friends and food.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
