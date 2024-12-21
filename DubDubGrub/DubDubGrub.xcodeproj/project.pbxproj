@@ -32,8 +32,8 @@
 		613D45D82D14F7BC008941FC = {
 			isa = PBXGroup;
 			children = (
-				613D45E32D14F7BC008941FC /* DubDubGrub */,
 				613D45E22D14F7BC008941FC /* Products */,
+				613D45E32D14F7BC008941FC /* DubDubGrub */,
 			);
 			sourceTree = "<group>";
 		};
